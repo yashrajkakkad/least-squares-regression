@@ -1,9 +1,7 @@
 # Least Squares Quadratic Curve Fitting in C
 
-The C program solves the standard least squares equation using Gauss-Jordan Elimination by getting the reduced row echelon form:
-$$
-A^TAx = A^Tb
-$$
+The C program solves the standard least squares equation using Gauss-Jordan Elimination by getting the reduced row echelon form.
+
 Test data has one feature and one label. It is inserted in runner.c as well as data.dat. Plots are generated using gnuplot and the script can be found in script.plt. The file 'LeastSquares.m' is a MATLAB implementation of the same idea. 
 
 *The sample data is a quadratic fit, but the code can be slightly modified to fit any standard predefined equation.*
