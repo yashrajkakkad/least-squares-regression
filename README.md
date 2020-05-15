@@ -56,6 +56,7 @@ where w is the weight and h is the height.
 ## Result
 
 We get: a = 0.003703, b = -1.288406, c = 176.578090
+
 Plot:
 
 (The black dot shows the weight corresponding to predicted weight at 185 cm height)
